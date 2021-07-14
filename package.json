@@ -1,0 +1,26 @@
+{
+  "name": "react-konva-image",
+  "version": "1.0.0",
+  "description": "A custom React Hook for loading react konva image",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/premsagar1997/react-konva-image.git"
+  },
+  "keywords": [
+    "react-konva",
+    "konva",
+    "konva-image",
+    "react-konva-image",
+    "react"
+  ],
+  "author": "Premsagar Choudhary",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/premsagar1997/react-konva-image/issues"
+  },
+  "homepage": "https://github.com/premsagar1997/react-konva-image#readme"
+}
