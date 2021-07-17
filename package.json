@@ -1,6 +1,6 @@
 {
   "name": "react-konva-image",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "A custom React Hook for loading react konva image",
   "main": "index.js",
   "scripts": {
